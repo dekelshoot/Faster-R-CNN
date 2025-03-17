@@ -19,7 +19,7 @@ Faster R-CNN (Region-based Convolutional Neural Networks) est un modèle de dét
    Clonez le dépôt GitHub du projet sur votre machine locale et accédez au répertoire du projet.
 
    ```bash
-   git clone https://github.com/votre-utilisateur/faster_rcnn.git
+   git clone https://github.com/dekelshoot/Faster-R-CNN.git
    cd faster_rcnn
    ```
 
